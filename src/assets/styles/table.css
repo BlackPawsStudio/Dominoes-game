@@ -1,0 +1,27 @@
+.table{
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  padding: 10px;
+  background: #aaa;
+  border: 5px solid #000;
+  border-radius: 10px;
+  text-align: center;
+  overflow: auto;
+}
+.table__text{
+  text-align: center;
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.table__dice{
+  margin: auto;
+  margin-top: 35px;
+  width: fit-content;
+  display: flex;
+  column-gap: 10px;
+}
