@@ -5,6 +5,17 @@
   display: flex;
   flex-direction: column;
   row-gap: 20px;
+  z-index: 10;
+  background-color: #eeeeee88;
+  border-radius: 10px;
+}
+.settings__title{
+  text-align: center;
+  cursor: pointer;
+  margin: 5px;
+}
+.settings_hidden{
+  display: none;
 }
 .settings__buttons{
   display: flex;

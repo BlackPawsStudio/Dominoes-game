@@ -19,6 +19,7 @@
   transform: translateX(-50%);
 }
 .table__dice{
+  padding: 0 20px;
   margin: auto;
   margin-top: 35px;
   width: fit-content;

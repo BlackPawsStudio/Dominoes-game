@@ -4,9 +4,8 @@
   left: 50%;
   transform: translateX(-50%);
   display: flex;
-  justify-content: center;
   column-gap: 10px;
-  max-height: 410px;
+  max-height: 35vh;
   width: 70%;
   overflow: auto;
 }
